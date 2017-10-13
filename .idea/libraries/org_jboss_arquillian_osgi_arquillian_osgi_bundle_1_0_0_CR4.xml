@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="org.jboss.arquillian.osgi:arquillian-osgi-bundle:1.0.0.CR4" type="repository">
+    <properties maven-id="org.jboss.arquillian.osgi:arquillian-osgi-bundle:1.0.0.CR4" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jboss/arquillian/osgi/arquillian-osgi-bundle/1.0.0.CR4/arquillian-osgi-bundle-1.0.0.CR4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jboss/arquillian/protocol/arquillian-protocol-jmx/1.0.0.CR3/arquillian-protocol-jmx-1.0.0.CR3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jboss/arquillian/container/arquillian-container-test-spi/1.0.0.CR3/arquillian-container-test-spi-1.0.0.CR3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jboss/arquillian/container/arquillian-container-spi/1.0.0.CR3/arquillian-container-spi-1.0.0.CR3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jboss/arquillian/config/arquillian-config-api/1.0.0.CR3/arquillian-config-api-1.0.0.CR3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jboss/arquillian/config/arquillian-config-impl-base/1.0.0.CR3/arquillian-config-impl-base-1.0.0.CR3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-spi/1.1.0-alpha-2/shrinkwrap-descriptors-spi-1.1.0-alpha-2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-api/1.1.0-alpha-2/shrinkwrap-descriptors-api-1.1.0-alpha-2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jboss/arquillian/testenricher/arquillian-testenricher-osgi/1.0.0.CR4/arquillian-testenricher-osgi-1.0.0.CR4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jboss/arquillian/test/arquillian-test-spi/1.0.0.CR3/arquillian-test-spi-1.0.0.CR3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jboss/arquillian/core/arquillian-core-spi/1.0.0.CR3/arquillian-core-spi-1.0.0.CR3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jboss/arquillian/core/arquillian-core-api/1.0.0.CR3/arquillian-core-api-1.0.0.CR3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jboss/shrinkwrap/shrinkwrap-api/1.0.0-beta-5/shrinkwrap-api-1.0.0-beta-5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jboss/arquillian/container/arquillian-container-test-api/1.0.0.CR3/arquillian-container-test-api-1.0.0.CR3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javax/inject/javax.inject/1/javax.inject-1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
